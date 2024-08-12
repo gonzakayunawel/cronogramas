@@ -1,0 +1,5 @@
+.venv/
+*.docx
+excel_files.zip
+.env
+excel_files/
